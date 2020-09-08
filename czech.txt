@@ -203,6 +203,7 @@ novinky.cz#$#abort-on-property-write _sspDoNotInit; abort-on-property-read atob
 kupi.cz#$#abort-on-property-read atob; abort-on-property-read advFlag; abort-on-property-write advFlag
 super.cz#$#abort-on-property-read atob
 sport.cz#$#abort-on-property-read atob
+novinky##.ogm-branding
 novinky.cz,super.cz,sport.cz,kupi.cz#$#abort-on-property-read arschmitoeren
 novinky.cz,super.cz,sport.cz,kupi.cz##[data-cy]
 novinky.cz,super.cz,sport.cz,kupi.cz##.burRman
@@ -223,6 +224,7 @@ novinky.cz,kupi.cz,sport.cz,super.cz##.plachta-overall-img
 sport.cz##.combi_text__ad
 sport.cz##div#page > .combi
 sport.cz###adSklikUnderArticle
+sport.cz,horoskopy.cz##div[data-impressionurl]
 novinky.cz,kupi.cz,sport.cz,super.cz##[id^="tetrahedron"], .tetrahedron
 novinky.cz,kupi.cz,sport.cz,super.cz##[data-e4e-advert], .basafoxy
 novinky.cz,kupi.cz,sport.cz,super.cz##.oktagram_image
